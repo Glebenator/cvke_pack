@@ -3,7 +3,7 @@
 	"Enable Jungle Variant" = true
 	"Enable Snow Variant" = true
 	# Default: .003
-	"Mineshaft Spawn Rate" = 0.003
+	"Mineshaft Spawn Rate" = 0.005
 	"Enable Savanna Variant" = true
 	# The highest the floor of a mineshaft can be.
 	# Be careful, setting this too high can make mineshafts poke through ocean floors.
@@ -24,10 +24,10 @@
 	["YUNG's Better Mineshafts".Vines]
 		# How often vines spawn in all variants except jungle.
 		#Range: 0.0 ~ 1.0
-		"Vine Frequency" = 0.25
+		"Vine Frequency" = 0.1
 		# How often vines spawn in jungle mineshafts.
 		#Range: 0.0 ~ 1.0
-		"Jungle Mineshaft Vine Frequency" = 0.6
+		"Jungle Mineshaft Vine Frequency" = 0.5
 
 	###########################################################################################################
 	## Ore deposit settings.

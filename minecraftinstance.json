@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-09-28T01:29:16.3400167Z",
+  "lastPlayed": "2020-10-19T06:43:54.4861415Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -56,7 +56,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.8475313Z",
       "lastWriteTimeUtc": "2020-09-28T01:03:39.1634099Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2688498Z",
+      "queryTimestamp": "2020-10-19T06:48:30.005005Z",
       "fileCount": 1,
       "fileSize": 7036
     },
@@ -71,7 +71,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.5606924Z",
       "lastWriteTimeUtc": "2020-09-28T00:24:54.6473347Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2688498Z",
+      "queryTimestamp": "2020-10-19T06:48:30.005005Z",
       "fileCount": 1,
       "fileSize": 5567864
     },
@@ -86,7 +86,7 @@
       "status": 1,
       "timestamp": "2020-09-27T22:10:15.0359413Z",
       "lastWriteTimeUtc": "2020-08-14T07:46:59.8264458Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1131279Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0060042Z",
       "fileCount": 1,
       "fileSize": 31219
     },
@@ -101,7 +101,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.6317072Z",
       "lastWriteTimeUtc": "2020-09-28T01:01:48.9634266Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2688498Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0060042Z",
       "fileCount": 1,
       "fileSize": 23664
     },
@@ -116,7 +116,7 @@
       "status": 1,
       "timestamp": "2020-09-27T22:10:15.042943Z",
       "lastWriteTimeUtc": "2020-08-25T19:30:37.5506803Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1151282Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0060042Z",
       "fileCount": 1,
       "fileSize": 9414358
     },
@@ -131,7 +131,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.0315726Z",
       "lastWriteTimeUtc": "2020-09-28T01:02:00.9587196Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2688498Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0060042Z",
       "fileCount": 1,
       "fileSize": 182911
     },
@@ -146,7 +146,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:01.1074526Z",
       "lastWriteTimeUtc": "2020-08-12T06:54:59.8253123Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1151282Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0070037Z",
       "fileCount": 1,
       "fileSize": 114140
     },
@@ -161,7 +161,7 @@
       "status": 1,
       "timestamp": "2020-09-27T22:10:15.0779509Z",
       "lastWriteTimeUtc": "2020-08-25T19:30:38.1918256Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1151282Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0070037Z",
       "fileCount": 1,
       "fileSize": 1011409
     },
@@ -176,7 +176,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.8058649Z",
       "lastWriteTimeUtc": "2020-07-29T06:33:46.2051381Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1151282Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0070037Z",
       "fileCount": 1,
       "fileSize": 20048
     },
@@ -191,7 +191,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.6252972Z",
       "lastWriteTimeUtc": "2020-07-23T06:14:56.5318596Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1151282Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0070037Z",
       "fileCount": 1,
       "fileSize": 177439
     },
@@ -206,7 +206,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.3486436Z",
       "lastWriteTimeUtc": "2020-09-28T01:18:32.7959697Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2698505Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0080039Z",
       "fileCount": 1,
       "fileSize": 18101
     },
@@ -221,7 +221,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.7515093Z",
       "lastWriteTimeUtc": "2020-09-28T01:00:52.78141Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2698505Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0080039Z",
       "fileCount": 1,
       "fileSize": 29106
     },
@@ -236,7 +236,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.8495313Z",
       "lastWriteTimeUtc": "2020-09-28T01:15:01.8169444Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2698505Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0080039Z",
       "fileCount": 1,
       "fileSize": 6127
     },
@@ -251,7 +251,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.5376858Z",
       "lastWriteTimeUtc": "2020-09-28T00:24:50.4150424Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2698505Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0080039Z",
       "fileCount": 1,
       "fileSize": 135624
     },
@@ -266,7 +266,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:01.0411808Z",
       "lastWriteTimeUtc": "2020-08-08T22:34:59.3512483Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1161282Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0090048Z",
       "fileCount": 1,
       "fileSize": 8152
     },
@@ -281,7 +281,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.9095448Z",
       "lastWriteTimeUtc": "2020-09-28T01:03:35.0754782Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2708508Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0090048Z",
       "fileCount": 1,
       "fileSize": 11392
     },
@@ -296,7 +296,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.4386638Z",
       "lastWriteTimeUtc": "2020-09-28T01:01:58.5016303Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2708508Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0090048Z",
       "fileCount": 1,
       "fileSize": 1073137
     },
@@ -311,7 +311,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.8905413Z",
       "lastWriteTimeUtc": "2020-09-28T01:01:47.8367346Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2708508Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0100066Z",
       "fileCount": 1,
       "fileSize": 181671
     },
@@ -326,7 +326,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.4306624Z",
       "lastWriteTimeUtc": "2020-09-28T00:24:48.3129532Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2708508Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0100066Z",
       "fileCount": 1,
       "fileSize": 208430
     },
@@ -341,7 +341,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.9204429Z",
       "lastWriteTimeUtc": "2020-08-12T06:52:34.9385951Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1221302Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0100066Z",
       "fileCount": 1,
       "fileSize": 94242
     },
@@ -356,7 +356,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.3486436Z",
       "lastWriteTimeUtc": "2020-09-28T00:39:28.8628444Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2708508Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0100066Z",
       "fileCount": 1,
       "fileSize": 24849
     },
@@ -371,7 +371,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.0245708Z",
       "lastWriteTimeUtc": "2020-09-28T01:01:47.9787664Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2718499Z",
+      "queryTimestamp": "2020-10-19T06:48:30.011005Z",
       "fileCount": 1,
       "fileSize": 191643
     },
@@ -386,7 +386,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.5376858Z",
       "lastWriteTimeUtc": "2020-09-28T00:24:51.3052006Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2718499Z",
+      "queryTimestamp": "2020-10-19T06:48:30.011005Z",
       "fileCount": 1,
       "fileSize": 314422
     },
@@ -401,7 +401,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.9864338Z",
       "lastWriteTimeUtc": "2020-07-26T06:34:36.0560369Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1221302Z",
+      "queryTimestamp": "2020-10-19T06:48:30.011005Z",
       "fileCount": 1,
       "fileSize": 1852
     },
@@ -416,7 +416,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.9873944Z",
       "lastWriteTimeUtc": "2020-08-12T06:54:56.2968962Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1221302Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0120065Z",
       "fileCount": 1,
       "fileSize": 209583
     },
@@ -431,7 +431,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.994118Z",
       "lastWriteTimeUtc": "2020-07-23T06:14:04.4116107Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1231306Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0120065Z",
       "fileCount": 1,
       "fileSize": 25171
     },
@@ -446,7 +446,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.6077017Z",
       "lastWriteTimeUtc": "2020-09-28T01:07:42.4936Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2718499Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0120065Z",
       "fileCount": 1,
       "fileSize": 195656
     },
@@ -461,7 +461,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.6867671Z",
       "lastWriteTimeUtc": "2020-08-12T06:52:15.1477201Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1261316Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0130078Z",
       "fileCount": 1,
       "fileSize": 142302
     },
@@ -476,7 +476,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.7069382Z",
       "lastWriteTimeUtc": "2020-07-23T05:38:49.2133821Z",
-      "queryTimestamp": "2020-09-27T22:10:16.128131Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0130078Z",
       "fileCount": 1,
       "fileSize": 23490
     },
@@ -491,19 +491,19 @@
       "status": 1,
       "timestamp": "2020-08-14T07:33:34.9288174Z",
       "lastWriteTimeUtc": "2020-08-14T07:01:02.1494444Z",
-      "queryTimestamp": "2020-09-27T22:10:16.128131Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0130078Z",
       "fileCount": 1,
       "fileSize": 164724
     },
     {
       "folderName": "New World",
       "fingerprint": 0,
-      "fileDateHash": 759185977,
+      "fileDateHash": 1888396804,
       "sectionID": 10,
       "individualFingerprints": null,
       "status": 4,
-      "timestamp": "2020-09-28T01:39:29.5301032Z",
-      "lastWriteTimeUtc": "2020-09-28T01:39:14.3015567Z",
+      "timestamp": "2020-10-19T06:53:40.1480125Z",
+      "lastWriteTimeUtc": "2020-10-19T06:53:27.4845804Z",
       "queryTimestamp": "0001-01-01T00:00:00",
       "fileCount": 15,
       "fileSize": 0
@@ -519,7 +519,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.0865851Z",
       "lastWriteTimeUtc": "2020-09-28T01:14:01.6134626Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2728507Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0130078Z",
       "fileCount": 1,
       "fileSize": 109320
     },
@@ -534,7 +534,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.8605346Z",
       "lastWriteTimeUtc": "2020-09-28T01:14:24.1181211Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2728507Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0140057Z",
       "fileCount": 1,
       "fileSize": 283717
     },
@@ -549,7 +549,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.7904983Z",
       "lastWriteTimeUtc": "2020-08-12T06:52:17.2099057Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1291311Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0140057Z",
       "fileCount": 1,
       "fileSize": 1279998
     },
@@ -564,7 +564,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.666491Z",
       "lastWriteTimeUtc": "2020-09-28T01:03:29.7649155Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2728507Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0140057Z",
       "fileCount": 1,
       "fileSize": 22122
     },
@@ -579,7 +579,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.9945645Z",
       "lastWriteTimeUtc": "2020-09-28T01:06:18.55392Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2728507Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0140057Z",
       "fileCount": 1,
       "fileSize": 656352
     },
@@ -594,7 +594,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.8999911Z",
       "lastWriteTimeUtc": "2020-08-12T06:52:22.0626586Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1321329Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0150081Z",
       "fileCount": 1,
       "fileSize": 525881
     },
@@ -609,7 +609,7 @@
       "status": 1,
       "timestamp": "2020-09-27T22:10:15.0399422Z",
       "lastWriteTimeUtc": "2020-08-25T19:30:28.0588361Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1321329Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0150081Z",
       "fileCount": 1,
       "fileSize": 472916
     },
@@ -624,7 +624,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.8995422Z",
       "lastWriteTimeUtc": "2020-09-28T01:01:59.0377845Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2738504Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0150081Z",
       "fileCount": 1,
       "fileSize": 889783
     },
@@ -639,7 +639,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.2326177Z",
       "lastWriteTimeUtc": "2020-09-28T01:01:21.3256462Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2738504Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0150081Z",
       "fileCount": 1,
       "fileSize": 8773178
     },
@@ -654,7 +654,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.7287284Z",
       "lastWriteTimeUtc": "2020-09-28T01:03:31.1788064Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2738504Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0160046Z",
       "fileCount": 1,
       "fileSize": 28340
     },
@@ -669,7 +669,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.9134385Z",
       "lastWriteTimeUtc": "2020-07-23T06:22:54.4585143Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1321329Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0160046Z",
       "fileCount": 1,
       "fileSize": 558202
     },
@@ -684,7 +684,7 @@
       "status": 1,
       "timestamp": "2020-08-14T07:33:34.925816Z",
       "lastWriteTimeUtc": "2020-08-12T07:22:25.2045718Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1331328Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0160046Z",
       "fileCount": 1,
       "fileSize": 856954
     },
@@ -699,7 +699,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.4226597Z",
       "lastWriteTimeUtc": "2020-09-28T01:14:14.3891049Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2738504Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0160046Z",
       "fileCount": 1,
       "fileSize": 535460
     },
@@ -714,7 +714,7 @@
       "status": 1,
       "timestamp": "2020-09-27T22:10:15.0809515Z",
       "lastWriteTimeUtc": "2020-08-25T19:30:41.6851327Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1331328Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0170069Z",
       "fileCount": 1,
       "fileSize": 320864
     },
@@ -729,7 +729,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.7991423Z",
       "lastWriteTimeUtc": "2020-07-23T06:12:22.4872468Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1341333Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0170069Z",
       "fileCount": 1,
       "fileSize": 196523
     },
@@ -744,7 +744,7 @@
       "status": 1,
       "timestamp": "2020-09-27T22:10:15.0819518Z",
       "lastWriteTimeUtc": "2020-08-25T19:30:09.1970799Z",
-      "queryTimestamp": "2020-09-27T22:10:16.135133Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0170069Z",
       "fileCount": 1,
       "fileSize": 101479
     },
@@ -759,7 +759,7 @@
       "status": 1,
       "timestamp": "2020-09-27T22:10:15.0369417Z",
       "lastWriteTimeUtc": "2020-08-25T19:30:27.3756824Z",
-      "queryTimestamp": "2020-09-27T22:10:16.135133Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0180068Z",
       "fileCount": 1,
       "fileSize": 724023
     },
@@ -774,7 +774,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.0925864Z",
       "lastWriteTimeUtc": "2020-09-28T01:01:23.6180231Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2748519Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0180068Z",
       "fileCount": 1,
       "fileSize": 34254
     },
@@ -789,7 +789,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.037574Z",
       "lastWriteTimeUtc": "2020-09-28T01:02:46.7150577Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2748519Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0180068Z",
       "fileCount": 1,
       "fileSize": 22483
     },
@@ -804,7 +804,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.6963715Z",
       "lastWriteTimeUtc": "2020-07-23T06:28:06.6237941Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1401345Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0180068Z",
       "fileCount": 1,
       "fileSize": 1061758
     },
@@ -819,7 +819,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.2876305Z",
       "lastWriteTimeUtc": "2020-09-28T01:16:03.2231073Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2748519Z",
+      "queryTimestamp": "2020-10-19T06:48:30.019011Z",
       "fileCount": 1,
       "fileSize": 69502
     },
@@ -834,7 +834,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.8695364Z",
       "lastWriteTimeUtc": "2020-09-28T01:01:12.9118808Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2758518Z",
+      "queryTimestamp": "2020-10-19T06:48:30.019011Z",
       "fileCount": 1,
       "fileSize": 3327638
     },
@@ -849,7 +849,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.6195343Z",
       "lastWriteTimeUtc": "2020-07-23T07:21:33.7578541Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1411347Z",
+      "queryTimestamp": "2020-10-19T06:48:30.019011Z",
       "fileCount": 1,
       "fileSize": 132005
     },
@@ -864,7 +864,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.8505314Z",
       "lastWriteTimeUtc": "2020-09-28T01:14:58.0528738Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2758518Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0200078Z",
       "fileCount": 1,
       "fileSize": 469955
     },
@@ -879,7 +879,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.6237056Z",
       "lastWriteTimeUtc": "2020-09-28T01:15:15.2987526Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2758518Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0200078Z",
       "fileCount": 1,
       "fileSize": 289337
     },
@@ -894,7 +894,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.2136138Z",
       "lastWriteTimeUtc": "2020-09-28T01:01:09.839732Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2758518Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0200078Z",
       "fileCount": 1,
       "fileSize": 173994
     },
@@ -909,7 +909,7 @@
       "status": 1,
       "timestamp": "2020-09-27T22:10:15.1079576Z",
       "lastWriteTimeUtc": "2020-08-14T07:42:53.2184293Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1451352Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0200078Z",
       "fileCount": 1,
       "fileSize": 42467
     },
@@ -924,7 +924,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:01.0325364Z",
       "lastWriteTimeUtc": "2020-07-23T06:12:51.1892499Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1451352Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0210088Z",
       "fileCount": 1,
       "fileSize": 29620
     },
@@ -939,7 +939,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.9575555Z",
       "lastWriteTimeUtc": "2020-09-28T01:01:14.7530454Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2758518Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0210088Z",
       "fileCount": 1,
       "fileSize": 13388
     },
@@ -954,7 +954,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.5946987Z",
       "lastWriteTimeUtc": "2020-09-28T01:07:43.0011374Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2768517Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0210088Z",
       "fileCount": 1,
       "fileSize": 1834204
     },
@@ -969,7 +969,7 @@
       "status": 1,
       "timestamp": "2020-09-27T22:10:15.1079576Z",
       "lastWriteTimeUtc": "2020-08-25T19:30:49.8970089Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1461355Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0210088Z",
       "fileCount": 1,
       "fileSize": 487526
     },
@@ -984,7 +984,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.4316619Z",
       "lastWriteTimeUtc": "2020-09-28T01:02:53.4816876Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2768517Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0220067Z",
       "fileCount": 1,
       "fileSize": 95210
     },
@@ -999,7 +999,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.5263639Z",
       "lastWriteTimeUtc": "2020-07-23T05:38:23.6984764Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1461355Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0220067Z",
       "fileCount": 1,
       "fileSize": 7603
     },
@@ -1014,7 +1014,7 @@
       "status": 1,
       "timestamp": "2020-09-27T22:10:15.0849524Z",
       "lastWriteTimeUtc": "2020-08-25T19:30:47.1373774Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1471362Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0220067Z",
       "fileCount": 1,
       "fileSize": 1019712
     },
@@ -1029,7 +1029,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.2936323Z",
       "lastWriteTimeUtc": "2020-09-28T01:04:32.3938589Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2768517Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0220067Z",
       "fileCount": 1,
       "fileSize": 15014
     },
@@ -1044,7 +1044,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.0035657Z",
       "lastWriteTimeUtc": "2020-09-28T01:01:58.0476184Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2778524Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0230076Z",
       "fileCount": 1,
       "fileSize": 133242
     },
@@ -1059,7 +1059,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.6827189Z",
       "lastWriteTimeUtc": "2020-09-28T01:13:52.021342Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2768517Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0230076Z",
       "fileCount": 1,
       "fileSize": 12979
     },
@@ -1074,7 +1074,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.0795834Z",
       "lastWriteTimeUtc": "2020-09-28T01:11:21.3614383Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2778524Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0230076Z",
       "fileCount": 1,
       "fileSize": 349586
     },
@@ -1089,7 +1089,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.6147033Z",
       "lastWriteTimeUtc": "2020-09-28T00:24:56.4607436Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2778524Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0230076Z",
       "fileCount": 1,
       "fileSize": 34395
     },
@@ -1104,7 +1104,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.2046115Z",
       "lastWriteTimeUtc": "2020-09-28T01:14:29.3830592Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2778524Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0290094Z",
       "fileCount": 1,
       "fileSize": 828034
     },
@@ -1119,7 +1119,7 @@
       "status": 1,
       "timestamp": "2020-09-27T22:10:15.1069581Z",
       "lastWriteTimeUtc": "2020-08-14T07:46:39.1506251Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1481361Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0300099Z",
       "fileCount": 1,
       "fileSize": 145588
     },
@@ -1134,7 +1134,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.4136576Z",
       "lastWriteTimeUtc": "2020-09-28T00:24:46.7686068Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2778524Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0300099Z",
       "fileCount": 1,
       "fileSize": 230281
     },
@@ -1149,7 +1149,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:01.0411808Z",
       "lastWriteTimeUtc": "2020-07-23T07:21:55.8543497Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1481361Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0300099Z",
       "fileCount": 1,
       "fileSize": 14251124
     },
@@ -1164,7 +1164,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.8495313Z",
       "lastWriteTimeUtc": "2020-09-28T00:24:53.9981888Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2788523Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0300099Z",
       "fileCount": 1,
       "fileSize": 57047
     },
@@ -1179,7 +1179,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.5866973Z",
       "lastWriteTimeUtc": "2020-09-28T01:15:24.0277082Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2788523Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0310092Z",
       "fileCount": 1,
       "fileSize": 392786
     },
@@ -1194,7 +1194,7 @@
       "status": 1,
       "timestamp": "2020-09-27T22:10:15.0839521Z",
       "lastWriteTimeUtc": "2020-08-25T19:30:46.0041048Z",
-      "queryTimestamp": "2020-09-27T22:10:16.149136Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0310092Z",
       "fileCount": 1,
       "fileSize": 343496
     },
@@ -1209,7 +1209,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.857731Z",
       "lastWriteTimeUtc": "2020-07-23T06:17:36.0873551Z",
-      "queryTimestamp": "2020-09-27T22:10:16.149136Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0310092Z",
       "fileCount": 1,
       "fileSize": 13572
     },
@@ -1224,7 +1224,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.5177192Z",
       "lastWriteTimeUtc": "2020-08-12T06:49:49.0315258Z",
-      "queryTimestamp": "2020-09-27T22:10:16.1501364Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0310092Z",
       "fileCount": 1,
       "fileSize": 718808
     },
@@ -1239,7 +1239,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.5396867Z",
       "lastWriteTimeUtc": "2020-09-28T01:15:24.8128845Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2788523Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0310092Z",
       "fileCount": 1,
       "fileSize": 502981
     },
@@ -1254,7 +1254,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.4496665Z",
       "lastWriteTimeUtc": "2020-09-28T01:11:48.6022999Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2788523Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0320107Z",
       "fileCount": 1,
       "fileSize": 34857
     },
@@ -1269,7 +1269,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.5796953Z",
       "lastWriteTimeUtc": "2020-09-28T00:24:55.1044396Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2798529Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0320107Z",
       "fileCount": 1,
       "fileSize": 1880556
     },
@@ -1284,7 +1284,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.4146584Z",
       "lastWriteTimeUtc": "2020-09-28T01:15:15.1937293Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2798529Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0320107Z",
       "fileCount": 1,
       "fileSize": 539043
     },
@@ -1299,7 +1299,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.1976096Z",
       "lastWriteTimeUtc": "2020-09-28T01:04:37.9417011Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2798529Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0320107Z",
       "fileCount": 1,
       "fileSize": 445204
     },
@@ -1314,7 +1314,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:27.658489Z",
       "lastWriteTimeUtc": "2020-09-28T01:04:38.0367218Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2798529Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0330095Z",
       "fileCount": 1,
       "fileSize": 85335
     },
@@ -1329,7 +1329,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.2736271Z",
       "lastWriteTimeUtc": "2020-09-28T01:01:43.5601292Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2798529Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0330095Z",
       "fileCount": 1,
       "fileSize": 1508522
     },
@@ -1344,7 +1344,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.0095677Z",
       "lastWriteTimeUtc": "2020-09-28T01:02:43.3304065Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2818531Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0330095Z",
       "fileCount": 1,
       "fileSize": 2219282
     },
@@ -1359,7 +1359,7 @@
       "status": 1,
       "timestamp": "2020-08-12T07:17:00.7789723Z",
       "lastWriteTimeUtc": "2020-07-23T05:38:19.97691Z",
-      "queryTimestamp": "2020-09-27T22:10:16.152138Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0330095Z",
       "fileCount": 1,
       "fileSize": 57630
     },
@@ -1374,7 +1374,7 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.6157042Z",
       "lastWriteTimeUtc": "2020-09-28T01:01:43.4240073Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2818531Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0330095Z",
       "fileCount": 1,
       "fileSize": 584038
     },
@@ -1389,13 +1389,13 @@
       "status": 1,
       "timestamp": "2020-09-28T01:20:28.5476882Z",
       "lastWriteTimeUtc": "2020-09-28T00:24:53.1131857Z",
-      "queryTimestamp": "2020-09-28T01:20:29.2818531Z",
+      "queryTimestamp": "2020-10-19T06:48:30.0340096Z",
       "fileCount": 1,
       "fileSize": 3809040
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2020-09-28T01:20:29.6129274Z",
+  "lastPreviousMatchUpdate": "2020-10-19T06:48:30.4471025Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.1",
@@ -2946,7 +2946,7 @@
       "dateInstalled": "2020-09-28T01:01:43.5681309Z",
       "dateUpdated": "2020-09-28T01:01:43.5701313Z",
       "dateLastUpdateAttempted": "2020-09-28T01:01:43.5701313Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3227,7 +3227,7 @@
       "dateInstalled": "2020-08-14T07:01:02.1544447Z",
       "dateUpdated": "2020-08-14T07:01:02.1564461Z",
       "dateLastUpdateAttempted": "2020-08-14T07:01:02.1564461Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4018,7 +4018,7 @@
       "dateInstalled": "2020-09-28T01:01:21.3366487Z",
       "dateUpdated": "2020-09-28T01:01:21.34365Z",
       "dateLastUpdateAttempted": "2020-09-28T01:01:21.34365Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4028,6 +4028,75 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 299540,
+      "gameInstanceID": "3e8cc998-8dae-4cb3-bb97-7601ad141153",
+      "installedFile": {
+        "id": 3041240,
+        "displayName": "FastFurnace-1.16.1-4.1.2.jar",
+        "fileName": "FastFurnace-1.16.1-4.1.2.jar",
+        "fileDate": "2020-08-24T22:05:09.937Z",
+        "fileLength": 14351,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3041/240/FastFurnace-1.16.1-4.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 283644,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2419665847,
+            "type": 0
+          },
+          {
+            "foldername": "shadows",
+            "fingerprint": 1226874795,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 135111852,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 4263836568,
+        "gameVersion": [
+          "1.16.1"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2020-06-24T12:41:11.823Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "FastFurnace-1.16.1-4.1.2.jar"
+      },
+      "dateInstalled": "2020-10-19T06:59:33.6107283Z",
+      "dateUpdated": "2020-10-19T06:59:33.6127287Z",
+      "dateLastUpdateAttempted": "2020-10-19T06:59:33.6127287Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 220318,
@@ -5846,6 +5915,191 @@
       "installedTargets": null
     },
     {
+      "addonID": 225643,
+      "gameInstanceID": "3e8cc998-8dae-4cb3-bb97-7601ad141153",
+      "installedFile": {
+        "id": 3049926,
+        "displayName": "Botania-1.16.1-403.1.jar",
+        "fileName": "Botania-1.16.1-403.1.jar",
+        "fileDate": "2020-09-05T00:42:59.803Z",
+        "fileLength": 14756890,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3049/926/Botania-1.16.1-403.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 243121,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306770,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 309927,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2426190335,
+            "type": 0
+          },
+          {
+            "foldername": "vazkii",
+            "fingerprint": 417594210,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2899195398,
+            "type": 0
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1542959126,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1089852747,
+            "type": 0
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 2050890553,
+            "type": 0
+          },
+          {
+            "foldername": "botania.refmap.json",
+            "fingerprint": 4162855766,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2291106179,
+        "gameVersion": [
+          "1.16.1",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Botania-1.16.1-403.1.jar"
+      },
+      "dateInstalled": "2020-10-19T06:59:23.5192255Z",
+      "dateUpdated": "2020-10-19T06:59:23.5352292Z",
+      "dateLastUpdateAttempted": "2020-10-19T06:59:23.5352292Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 266936,
+      "gameInstanceID": "3e8cc998-8dae-4cb3-bb97-7601ad141153",
+      "installedFile": {
+        "id": 3028280,
+        "displayName": "JAOPCA-1.16.1-3.3.0.4.jar",
+        "fileName": "JAOPCA-1.16.1-3.3.0.4.jar",
+        "fileDate": "2020-08-10T03:08:25.173Z",
+        "fileLength": 441131,
+        "releaseType": 3,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3028/280/JAOPCA-1.16.1-3.3.0.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2383409852,
+            "type": 0
+          },
+          {
+            "foldername": "thelm",
+            "fingerprint": 1460176506,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2019869042,
+            "type": 0
+          },
+          {
+            "foldername": "jaopca.mixins.json",
+            "fingerprint": 1548353937,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 4098689088,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.jaopca.refmap.json",
+            "fingerprint": 177463229,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3208525420,
+        "gameVersion": [
+          "1.16.1"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2020-06-24T12:41:11.823Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "JAOPCA-1.16.1-3.3.0.4.jar"
+      },
+      "dateInstalled": "2020-10-19T07:00:22.2159375Z",
+      "dateUpdated": "2020-10-19T07:00:22.2179379Z",
+      "dateLastUpdateAttempted": "2020-10-19T07:00:22.2179379Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 280510,
       "gameInstanceID": "3e8cc998-8dae-4cb3-bb97-7601ad141153",
       "installedFile": {
@@ -6172,7 +6426,7 @@
       "dateInstalled": "2020-07-23T06:08:28.6016319Z",
       "dateUpdated": "2020-09-28T00:24:54.6623371Z",
       "dateLastUpdateAttempted": "2020-09-28T00:24:54.6623371Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6479,7 +6733,7 @@
       "dateInstalled": "2020-07-23T06:29:38.8487218Z",
       "dateUpdated": "2020-09-28T00:24:48.3209556Z",
       "dateLastUpdateAttempted": "2020-09-28T00:24:48.3209556Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7283,6 +7537,99 @@
       "installedTargets": null
     },
     {
+      "addonID": 309927,
+      "gameInstanceID": "3e8cc998-8dae-4cb3-bb97-7601ad141153",
+      "installedFile": {
+        "id": 3023024,
+        "displayName": "curios-FORGE-1.16.1-3.0.0.2.jar",
+        "fileName": "curios-FORGE-1.16.1-3.0.0.2.jar",
+        "fileDate": "2020-08-04T05:51:16.96Z",
+        "fileLength": 218938,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3023/24/curios-FORGE-1.16.1-3.0.0.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 3023025,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2319581469,
+            "type": 0
+          },
+          {
+            "foldername": "top",
+            "fingerprint": 1750559355,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1746391,
+            "type": 0
+          },
+          {
+            "foldername": "CHANGELOG.md",
+            "fingerprint": 3268856791,
+            "type": 0
+          },
+          {
+            "foldername": "curios_icon.png",
+            "fingerprint": 1224242090,
+            "type": 0
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 354465712,
+            "type": 0
+          },
+          {
+            "foldername": "licenses",
+            "fingerprint": 3550732819,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2397832804,
+            "type": 0
+          },
+          {
+            "foldername": "README.md",
+            "fingerprint": 2479755029,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2605187441,
+        "gameVersion": [
+          "1.16.1",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "curios-FORGE-1.16.1-3.0.0.2.jar"
+      },
+      "dateInstalled": "2020-10-19T06:59:22.1861733Z",
+      "dateUpdated": "2020-10-19T06:59:22.1881735Z",
+      "dateLastUpdateAttempted": "2020-10-19T06:59:22.1881735Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 372534,
       "gameInstanceID": "3e8cc998-8dae-4cb3-bb97-7601ad141153",
       "installedFile": {
@@ -8070,6 +8417,74 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 250398,
+      "gameInstanceID": "3e8cc998-8dae-4cb3-bb97-7601ad141153",
+      "installedFile": {
+        "id": 3019836,
+        "displayName": "Controlling-7.0.0.3.jar",
+        "fileName": "Controlling-7.0.0.3.jar",
+        "fileDate": "2020-07-31T14:05:18.483Z",
+        "fileLength": 38992,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3019/836/Controlling-7.0.0.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 3019837,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 851561516,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3480699569,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 136148991,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 165851812,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2508670864,
+        "gameVersion": [
+          "1.16.1",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Controlling-7.0.0.3.jar"
+      },
+      "dateInstalled": "2020-10-19T06:59:12.184124Z",
+      "dateUpdated": "2020-10-19T06:59:12.1891251Z",
+      "dateLastUpdateAttempted": "2020-10-19T06:59:12.1891251Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 336272,

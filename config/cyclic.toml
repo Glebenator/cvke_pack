@@ -8,7 +8,7 @@
 	#Disable the 3 scaffolding blocks
 	scaffolding = true
 	#Disable 9 items, emerald armor and tools
-	emeraldGear = true
+	emeraldGear = false
 	#Disable 5 netherbrick tools
 	netherbrickGear = true
 	#Disable the completely balanced climbing glove

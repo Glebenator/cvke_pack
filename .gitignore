@@ -1,1 +1,12 @@
 minecraftinstance.json
+/.mixin.out/
+/logs/
+/resourcepacks/
+/saves/
+chooser_0.png
+mobs_0.png
+patchouli_data.json
+pings_0.png
+waypoints_0.png
+usercache.json
+usernamecache.json

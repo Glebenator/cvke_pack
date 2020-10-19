@@ -1,7 +1,7 @@
 {
-	"x": 2,
-	"y": 84,
-	"width": 98,
+	"x": 100,
+	"y": 50,
+	"width": 150,
 	"height": 20,
 	"langKey": "menu.quit",
 	"action": "QUIT"

@@ -33,12 +33,12 @@
 	[health.values]
 		#The lowest amount of health a player can have. Can be set to 0 in case only maxHealthAmount is wanted
 		#Range: 0 ~ 1024
-		minHealthAmount = 6
+		minHealthAmount = 10
 		#The starting health for the player. Possible values are MIN, MAX or just a number
 		startingHealthAmount = "MIN"
 		#The highest amount of health a player can have
 		#Range: 1 ~ 1024
-		maxHealthAmount = 20
+		maxHealthAmount = 40
 		#The amount of health lost on each death. It will only work if minHealthAmount is higher than 0
 		#Range: 0 ~ 1024
 		deathDecreasedHealthAmount = 1
